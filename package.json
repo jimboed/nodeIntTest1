@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "A sample Node.js app using Express 4",
   "main": "nodeIntTest1.js",
-  "scripts": {
-    "start": "node nodeIntTest1.js"
-  },
   "dependencies": {
     "express": "^4.13.3"
   },
